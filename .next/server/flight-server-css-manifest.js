@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/page": [
+      "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/page.module.css",
+      "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/globals.css"
+    ]
+  },
+  "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/page.tsx": [
+    "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/page.module.css",
+    "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+  ],
+  "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/layout.tsx": [
+    "/Users/rangakomarthi/sites/Freelense/fashionhubsystem/src/app/globals.css"
+  ]
+}
